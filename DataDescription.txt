@@ -39,3 +39,6 @@ Anomalies in Data:
 17 April 2023: 	Lab power outage. Probably triggered by a short circuit
 21 May 2023: 	Large fire in Herzogenrath (9-10km away from measuring location)
 
+2023-04-18
+2023-06-04
+
