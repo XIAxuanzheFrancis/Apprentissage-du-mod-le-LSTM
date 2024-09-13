@@ -41,6 +41,11 @@
 
 20. newIdea: The files in the newIdea folder are modified and optimized to correspond to the models in the corresponding files of the same name in the main directory.Mainly, the output removes a few detection parameters, and the output still predicts the removal of the detection parameters
 
+21. **rnn_lstm_gru_lab_version2.ipynb**: on the basis of version1 such that the training process outputs the RMSE of each mesure. 
+
+22. **algolab.ipynb**: I'm trying to use CNN-LSTM-Bayesian (ensemble learning model using Bayesian optimization algorithms), but still have the error
+
+
 
 Algorithms used to calculate the air index
 1. https://www.kaggle.com/code/aliuoa/2023-indoor-air-quality-dataset-germany
